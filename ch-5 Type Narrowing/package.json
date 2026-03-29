@@ -1,0 +1,16 @@
+{
+  "name": "ch-5-type-narrowing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/TypeNarrowing.js",
+    "dev": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "typescript": "^6.0.2"
+  }
+}
