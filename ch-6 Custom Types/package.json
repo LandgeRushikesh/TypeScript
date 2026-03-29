@@ -1,0 +1,12 @@
+{
+  "name": "ch-6-custom-types",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node Interface.js",
+    "dev": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
